@@ -11,8 +11,9 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Thomas V. Greenhill # add your name
 author-img: TVG.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+# social-twitter: # add your Twitter handle
+# social-facebook: # add your Facebook handle
+social-olc: 
 social-github: ThomasGreenhill # add your Github handle
 social-linkedin: thomas-greenhill-48b100129 # add your Linkedin handle
 social-email: thomasvgreenhill@gmail.com # add your Email address
