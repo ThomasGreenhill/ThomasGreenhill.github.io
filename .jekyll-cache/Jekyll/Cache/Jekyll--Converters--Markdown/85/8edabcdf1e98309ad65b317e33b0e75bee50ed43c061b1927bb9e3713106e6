@@ -1,0 +1,29 @@
+I"Z	<p><em>Over the last year or so, I have become infatuated with system dynamics, stability and control; particularly as they relate to aircraft. I have pushed myself to take graduate-level controls courses and have written several reports relating to dynamics and control of aircraft. Over the 2020 summer, I completed a System Identificaton internship with Kitty Hawk’s Heaviside team.</em>
+<br /><br /></p>
+
+<p><em>After I complete my undergraduate eduction, I plan to pursue a masters or PhD degree in control systems/mechatronics</em></p>
+
+<h2 id="flight-dynamics-simulation-visualizations">Flight Dynamics Simulation Visualizations</h2>
+<p><em>I wrote a 6-DOF linear, time invariant flight simulation model and visualizer in MATLAB which takes any of four inputs (elevator, thrust, aileron, rudder) and simulates the outputs in time. This simulation uses linear kinematics and euler angles, so it only accurately models flight dynamics with small perturbations around the trim coniditon.</em></p>
+
+<p><img src="/assets/img/de_simulation_animation.gif" alt="Response to Elevator Input" />
+<img src="/assets/img/settings.png" alt="Settings" />
+<em>Aircraft Response to an Elevator Step-Doublet</em></p>
+
+<p><img src="/assets/img/dr_simulation_animation.gif" alt="Response to Rudder Input" />
+<em>Aircraft Response to an Elevator Step-Doublet</em></p>
+
+<p><img src="/assets/img/da_simulation_animation.gif" alt="Response to Aileron Input" />
+<em>Aircraft Response to an Aileron Step-Doublet</em></p>
+
+<h2 id="c-5a-galaxy">C-5A Galaxy</h2>
+<p>Over the last year, I have written two reports on the C-5A galaxy to evaluate its handling qualities and control.</p>
+
+<h3 id="an-evaluation-of-the-c-5as-longitudinal-performance-control--handling-qualities">An Evaluation of the C-5A’s Longitudinal Performance, Control &amp; Handling Qualities</h3>
+<object data="/assets/pdf/C5-Handling-Control.pdf" width="600" height="600" type="application/pdf"></object>
+
+<h3 id="designing-mimo-controllers-to-improve-the-c-5as-handling-qualities-using-youla-parameterization-and-optimal-control-techniques">Designing MIMO Controllers to Improve the C-5A’s Handling Qualities Using Youla Parameterization and Optimal Control Techniques</h3>
+<object data="/assets/pdf/C5-MIMO-Control.pdf" width="600" height="600" type="application/pdf"></object>
+
+<h2 id="system-id-for-aircraft">System ID for Aircraft</h2>
+:ET
