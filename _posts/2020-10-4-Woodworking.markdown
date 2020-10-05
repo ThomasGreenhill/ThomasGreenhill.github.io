@@ -7,7 +7,7 @@ img: indoor-table.jpg # Add image post (optional)
 fig-caption: Dining Room Table (Ash, Walnut & BloodWood) # Add figcaption (optional)
 tags: [Woodworking, Fine Woodworking, Cabinetry, Tables, Carpentry]
 ---
-_I've been woodworking since high school, and have built many beautiful, functional pieces such as tables, cutting boards, pens, and bowls. Please find photos and descriptions of some of my favorite pieces below!_
+_I've been woodworking since high school, and have built many elegant, functional pieces such as tables, cutting boards, pens, and bowls. Please find photos and descriptions of some of my favorite pieces below!_
 
 ## Dining Room Table
 ![Dining Room Table Front]({{site.baseurl}}/assets/img/drt-front.jpg)
