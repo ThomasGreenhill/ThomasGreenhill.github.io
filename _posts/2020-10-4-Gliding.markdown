@@ -7,7 +7,7 @@ img: 1000k.jpg # Add image post (optional)
 fig-caption: A Big Smile After my First 1000km Flight  # Add figcaption (optional)
 tags: [Woodworking, Fine Woodworking, Cabinetry, Tables, Carpentry]
 ---
-_I started flying gliders at the age of 14 and have accumulated over 750 totally engine-less flight hours since! Gliding is my way of getting away from work and school, and I generally fly around 150 hours per year. I hold a handful of awards and state records, and I compete in glider races at the national level._
+_I learned to fly gliders at the age of 14 and have accumulated over 750 totally engine-less flight hours since! Gliding is my way of getting away from work and school, and I generally fly around 150 hours per year. I hold a handful of awards and state records, and I compete in glider races at the national level._
 
 ### Awards:
 * 2020 -- 18th Place: [OLC Speed Champion](https://www.onlinecontest.org/olc-3.0/gliding/champion.html?st=olc-league&rt=olc&sp=2020&c=C0&sc=) (worldwide, all ages)
