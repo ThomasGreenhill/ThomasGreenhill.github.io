@@ -10,7 +10,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Thomas V. Greenhill # add your name
 author-img: TVG.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: I'm a fourth year double major in aerospace and mechanical engineering at UC Davis. <br /> <br /> I won the US Gliding Junior National Champion title in 2019 and ranked 18th in the world for gliding (average speed, general age category) in 2020. <br /> <br />If there's one thing I want you to know about me, it's that I'm very motivated by challenging problems which require hard work and attention to detail -- I'm very good at approaching difficult problems with a strong desire to learn and an ability to come up with simple, elegant solutions! # add description
+
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-olc: 

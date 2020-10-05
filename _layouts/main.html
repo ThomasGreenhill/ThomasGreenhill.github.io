@@ -43,17 +43,6 @@ layout: default
         <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin"
               aria-hidden="true"></i></a></li>
         {% endif %}
-
-        {% if site.social-olc %}
-        <li class="linkedin"><a
-            href="https://www.onlinecontest.org/olc-3.0/gliding/flightbook.html?st=olcp&rt=olc&pi=61172&sp=2020"
-            target="_blank"><i class="fa fa-olc"></i></a></li>
-        {% else %}
-        <li class="linkedin"><a href="https://www.onlinecontest.org/olc-3.0/gliding/flightbook.html?st=olcp&rt=olc&pi=61172&sp=2020" target="_blank"><i class="fa fa-plane"
-              aria-hidden="true"></i></a></li>
-        {% endif %}
-
-
         {% if site.social-email %}
         <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
         {% else %}
@@ -61,10 +50,27 @@ layout: default
               aria-hidden="true"></i></a></li>
         {% endif %}
       </ul>
-    </section> <!-- End Section Contact -->
-    <div class="copyright">
-      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
-    </div>
+
+
+      <section class="contact">
+        <h3 class="contact-title">Flightbook</h3>
+        <ul>
+
+          {% if site.social-olc %}
+          <li class="linkedin"><a
+              href="https://www.onlinecontest.org/olc-3.0/gliding/flightbook.html?st=olcp&rt=olc&pi=61172&sp=2020"
+              target="_blank"><i class="fa fa-olc"></i></a></li>
+          {% else %}
+          <li class="linkedin"><a
+              href="https://www.onlinecontest.org/olc-3.0/gliding/flightbook.html?st=olcp&rt=olc&pi=61172&sp=2020"
+              target="_blank"><i class="fa fa-plane" aria-hidden="true"></i></a></li>
+          {% endif %}
+        </ul>
+
+      </section> <!-- End Section Contact -->
+      <div class="copyright">
+        <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+      </div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
