@@ -16,16 +16,16 @@ _After I complete my undergraduate eduction, I plan to pursue a masters or PhD d
 _I wrote a 6-DOF linear, time invariant flight simulation model and visualizer in MATLAB which takes any of four inputs (elevator, thrust, aileron, rudder) and simulates the outputs in time. This simulation uses linear kinematics and euler angles, so it only accurately models flight dynamics with small perturbations around the trim coniditon (though giving it inputs that discrupt greatly from trim does make for a cool animation!)._
 
 
-![Response to Elevator Input]({{site.baseurl}}/assets/img/de_simulation_animation.gif)
+<!-- ![Response to Elevator Input]({{site.baseurl}}/assets/img/de_simulation_animation.gif) -->
 *Aircraft Response to an Elevator Step-Doublet* <br />
 
-![Response to Rudder Input]({{site.baseurl}}/assets/img/dr_simulation_animation.gif)
+<!-- ![Response to Rudder Input]({{site.baseurl}}/assets/img/dr_simulation_animation.gif) -->
 *Aircraft Response to a Rudder Step* <br />
 
 ![Response to Aileron Input]({{site.baseurl}}/assets/img/da_simulation_animation.gif)
 *Aircraft Response to an Aileron Step-Doublet*
 
-![Response to Aileron Input]({{site.baseurl}}/assets/img/MIMO_simulation_animation.gif)
+<!-- ![Response to Aileron Input]({{site.baseurl}}/assets/img/MIMO_simulation_animation.gif) -->
 *Aircraft Response to Multiple Inputs*
 
 ## C-5A Galaxy
