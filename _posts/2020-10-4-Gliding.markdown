@@ -7,43 +7,73 @@ img: 1000k.jpg # Add image post (optional)
 fig-caption: A Big Smile After my First 1000km Flight  # Add figcaption (optional)
 tags: [Woodworking, Fine Woodworking, Cabinetry, Tables, Carpentry]
 ---
-_I've been woodworking since high school, and have built many beautiful, functional pieces such as tables, cutting boards, pens, and bowls. Please find photos and descriptions of some of my favorite pieces below!_
+_I started flying gliders at the age of 14 and have accumulated over 750 totally engine-less flight hours since! I hold a handful of awards and state records, and compete in glider races at the national level._
 
-## Dining Room Table
-![Dining Room Table Front]({{site.baseurl}}/assets/img/drt-front.jpg)
-*Ash Dining Room Table: Front View*
+### Awards:
+* 2020 -- 18th Place: [OLC Speed Champion](https://www.onlinecontest.org/olc-3.0/gliding/champion.html?st=olc-league&rt=olc&sp=2020&c=C0&sc=) (worldwide, all ages)
+* 2019 -- 1st Place: US Junior National Championship (pilots under 25years of age)
+* 2019 -- 6th place: US Open Class National Championshp (all ages)
+* 2019 -- Recipient of the R. Mozier Award & Scholarship 
+* 2017 -- Pacific Soaring Council Sawyer Award
+* 2017 -- Pacific Soaring Council Longest Silver Badge Flight
 
-I built this dining room table in my high-school woodshop in 2016. It's over 6 feet long and is built mostly from ash, with walnut and bloodwood highlights. One key design requirement for this table was that it had to be easily assemblable/disassemblable and be able to fit in an average-sized SUV, so that it could move with me during college and afterwards. It takes less than 5 minutes to disassembles this table into its 9 pieces!
+### Records:
+As of October 5, 2020, I am the official holder of 9 CA state distance records.<br />
+These include: 
+* Open Class Singleplace Free Distance
+* Open Class Singleplace Free 3-Turnpoint Distance 
+* Open Class Singleplace Distance Up to 3 Turnpoints 
+* 15 Meter Class Free Distance
+* 15 Meter Class Free 3-Turnpoint Distance 
+* 15 Meter Class Distance Up to 3 Turnpoints
+* Standard Class Free Distance
+* Standard Class Free 3-Turnpoint Distance 
+* Standard Class Distance Up to 3 Turnpoints
 
->Fun fact: to join the tabletop pieces, over 120 football shaped "biscuits" are used to guarantee structural integrity!
+## Open Class National Championships, July 2019
+![Newspaper Snippet]({{site.baseurl}}/assets/img/np-2.jpeg)
+*Me In the Local Newspaper During the 2019 Open Class Nationals in Hobbs, NM*
 
-## Garden Table 
-![Garden Table]({{site.baseurl}}/assets/img/garden-table.jpg)
-*Redwood Garden Table: Trimetric View*
+I made an appearance in the local newspaper during the open class national championships in Hobbs, NM in 2019. I flew a borrowed ASW-22 BL (26.5m wingspan) glider, and came in 6th overall, with 92% of the winner's score. Hobbs was my first national championship and I was very happy with the 6th place as such!
 
-I built this garden table over the course of two days in fall 2020 for my back yard in Davis. The COVID-19 global pandemic presented the need for a large outdoor table capable of seating people in a socially distanced manner. This redwood picnic-table inspired piece is my solution! at over 8 feet long, it can comfortably fit two couples for an outdoor meal without breaking CDC guidelines! 
+> Fun fact: the ASW-22 BL boasts a 62:1 glide ratio and has some of the world's most flexible wings. Deflections under load at the tip often exceed 8 ft from the unloaded position! It's also the only glider in the world that's a dually!
+
+## My First 1000km Flight
+![1000k Flight]({{site.baseurl}}/assets/img/1000k-map.jpg)
+*Track Log From My First 1000km Flight: [Link](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=7961518)*
+
+On July 12, 2020, I flew my first 1000km flight in the 18m LS-10 ST! I took off from Nephi, UT and headed south. I turned north at Panguitch, UT (just west of Bryce Canyon Natl. Park) and followed the Wasatch Mountains north to Scofield Reservoir, where I turned south-west. I followed the Sevier lake basin almost to Nevada, where I turned around to head back to Nephi. My total flight path distance was 1032 km and I flew an average speed of 129 km/h.
+
 <br /><br />
-_With limited time, tools and budget, this table was designed for quick construction using only a drill and a circular saw. At it's relatively low pricepoint and good durability in outdoor conditions, redwood proved itself to be a worthy choice for material selection._
 
-## Optical Illusion Cutting Board
-![Optical Illusion Cutting Board]({{site.baseurl}}/assets/img/optical-board.jpg)
-*Optical Illusiton Cutting Board: Trimetric View*
+### Photo Gallery:
 
-At 30"x30", this is one of the largest and most involved cutting boards I have made. It boasts over 1000 total pieces and is made up of maple, padauk and walnut. 
-<br /><br />
-This piece is inspired by the famous wood artist Andrei Muntian, who built a similar design with two varieties of wood. Little did I know that adding a third wood variety would make the project four times more difficult! I spent almost an entire year from the initial conception to the completion of four of these boards. 
+![b]({{site.baseurl}}/assets/img/IMG_2108.jpg)
+*Turning North Near Panguitch, UT During my 1000km Flight, Looking East on Bryce Canyon* <br />
 
-## Bed-Side Table
-![Bed Side Table]({{site.baseurl}}/assets/img/bs-table.jpg)
-*Chery Bedside Table: Trimetric View*
+![b]({{site.baseurl}}/assets/img/Tahoe.jpg)
+*Peering Over Lake Tahoe From the North After an 800km Flight From Truckee, CA* <br />
 
-When my younger brother and I shared a room together in high school, the end of his bed came very close to the end of my bed, and no off-the-shelf nightstand tables would fit in the small gap between the two beds. This narrow cherry bedside table was my solution to the problem! Its slim, elegant design enables it to fit perfectly between the two beds and it serves its purpose brilliantly! 
+![a]({{site.baseurl}}/assets/img/IMG_4215.jpg)
+*Approaching Class A Airspace in Sierra Wave, Spoilers Open to Reduce the Climb Rate* <br />
 
-## Bowls & Trays
-![Walnut Bowl]({{site.baseurl}}/assets/img/bowl.jpg)
-*Simple Walnut Bowl*
+![c]({{site.baseurl}}/assets/img/IMG_2150.jpg)
+*Looking East Over the Southern Wasatch Near Richfield, UT* <br />
 
-![Trays]({{site.baseurl}}/assets/img/trays.jpg)
-*Cherry & Mahogany Tray*
+![d]({{site.baseurl}}/assets/img/IMG_2152.jpg)
+*Rain over the Pahvant Range During my 1000km Flight* <br />
 
-Over the years, I have bult many bowls and trays. The trays are made entirely by hand with a mallette and chisel, whereas the bowls are made with a manual lathe.  
+![a]({{site.baseurl}}/assets/img/IMG_2021.jpg)
+*Looking East On The Wasatch Plateau Near Salina, UT* <br />
+
+![e]({{site.baseurl}}/assets/img/mono.jpg)
+*A Close-Up Look at Mono Lake From the North*  <br />
+
+![e]({{site.baseurl}}/assets/img/IMG_2158.jpg)
+*Looking South on Mono Lake from 17,000 ft*  <br />
+
+![f]({{site.baseurl}}/assets/img/IMG_2287.jpg)
+*Approaching the Warner Mountains From the South With A Glorious Sky Ahead* <br />
+
+
+
