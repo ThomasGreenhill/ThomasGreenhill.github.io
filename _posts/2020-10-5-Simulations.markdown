@@ -3,7 +3,7 @@ layout: post
 title: Simulation Models
 date: 2020-10-05 13:30:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: blockdiag.jpg # Add image post (optional)
+img: simsnip.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 ---
 _Over the course of the last two years, I have coded many different simulation models to evaluate the behavior of various dynamic systems. My experience writing simulation models spans from very simple linear, time-invariant models to time-variant models with non-linear kinematics. The most involved simulation I've coded to-date involved non-linear kinematics and recursive calls to [AVL](http://web.mit.edu/drela/Public/web/avl/), using python to create a high-fidelity simulation model for flight regimes greatly disturbed from trimmed flight._ 
