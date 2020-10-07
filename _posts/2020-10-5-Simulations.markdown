@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simulation Models
+title: Simulations & Modeling
 date: 2020-10-05 13:30:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: simsnip.jpg # Add image post (optional)
