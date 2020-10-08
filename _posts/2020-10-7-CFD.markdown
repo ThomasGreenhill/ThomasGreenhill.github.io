@@ -10,7 +10,7 @@ tags: [Woodworking, Fine Woodworking, Cabinetry, Tables, Carpentry]
 
 _I have used CFD for several work and personal projects, and have advanced skills in AVL, XFOIL and XFLR5. The majority of my CFD projects have been geared towards load envelope determination for use in structural design and load testing._
 
-Below are two short papers I wrote, the first explores finite wing effects as relative to thin airfoil theory, and the second is a detailed report on the aft part of fuselage of a SparrowHawk Glider for use in a load test routine.
+Below are two short papers I wrote, the first explores finite wing effects as relative to thin airfoil theory, and the second is a detailed analysis on the loads experienced by the SparrowHawk Glider's aft fuselage, for use in a load test routine.
 
 ### An Evaluation of Finite Wing Effects
 <object data="{{site.baseurl}}/assets/pdf/Finite-Infinite-Effects.pdf" width="400" height="500" type='application/pdf'></object>

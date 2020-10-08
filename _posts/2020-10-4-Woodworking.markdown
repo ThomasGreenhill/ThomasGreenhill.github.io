@@ -46,4 +46,4 @@ When my younger brother and I shared a room together in high school, the end of 
 ![Trays]({{site.baseurl}}/assets/img/trays.jpg)
 *Cherry & Mahogany Tray*
 
-Over the years, I have bult many bowls and trays. The trays are made entirely by hand with a mallette and chisel, whereas the bowls are made with a manual lathe.  
+Over the years, I have built many bowls and trays. The trays are made entirely by hand with a mallet and chisel, whereas the bowls are made with a manual lathe.  
