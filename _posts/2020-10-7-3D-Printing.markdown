@@ -4,7 +4,7 @@ title: 3D Printing
 date: 2020-10-04 23:48:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: 3D.jpg # Add image post (optional)
-fig-caption: Dining Room Table (Ash, Walnut & BloodWood) # Add figcaption (optional)
+fig-caption: # Add figcaption (optional)
 tags: [Woodworking, Fine Woodworking, Cabinetry, Tables, Carpentry]
 ---
 
@@ -18,7 +18,7 @@ _I thoroughly enjoy designing and 3D printing parts to improve gliders and and t
 
 <br />
 
-![Flower Vase 1]({{site.baseurl}}/assets/img/flower-vase-1.jpg)
+![Flower Vase 1]({{site.baseurl}}/assets/img/Flower-Vase-1.jpg)
 *3D Printed Flower Vase*
 
 <br />
