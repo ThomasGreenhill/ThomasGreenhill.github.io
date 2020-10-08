@@ -38,10 +38,10 @@ System ID is also extremely useful for the validation and calibration of design 
 *Figure 1: Where System ID Sits in the R&D Feedback Loop*
 
 ## How Does System ID Actually Work?
-There are many ways to perform system ID, though system ID methods are largely separated by the domains in which they operate. 
-One of the most difficult parts of the system ID procedure is verifying that your identified models accurately represent the aircraft's true dynamic behavior. Each time a model is identified, a verification procedure must be used to confirm that the identified model yields responses very similar fashion to those of the actual aircraft. To complete this verification step, measured responses to measured inputs are compared to the identified plant's simulated responses to measured inputs.
+Many different techniques exist to perform system ID, though system ID methods are largely separated into two categories according to the domains in which they operate. Some tools operate on data in the time domain, and others operate on data collected in the time domain and transformed into the frequency domain.
 
-<br />
+One of the most difficult parts of the system ID process is verifying that your identified models accurately represent the aircraft's true dynamic behavior. Each time a model is identified, a verification procedure must be used to confirm that the identified model yields responses very similar fashion to those of the actual aircraft. To complete this verification step, measured responses to measured inputs are compared to the identified plant's simulated responses to measured inputs.
+
 The flow chart below illustrates the various stages of the system ID process along with the inputs and outputs of time domain and frequency domain system ID methods.
 
 ![Time Dom Freq Dom]({{site.baseurl}}/assets/img/freqdomtimedom.png)
@@ -74,14 +74,24 @@ The figures below illustrate the result of linear least squares system identific
 ![Example of Time-Domain System ID]({{site.baseurl}}/assets/img/timedom.png)
 *Figure 3: Example of Time-Domain System ID*
 
-<br />
-
 
 ## System ID in the Frequency Domain
-Whereas time-domain system ID is useless outside of the forward flight regime, system ID can be performed in the frequency domain to determine an aircraft's transfer functions in any phase of VTOL flight. 
+Whereas time-domain system ID is useless outside of the forward flight regime, system ID can be performed in the frequency domain to determine an aircraft's transfer functions in any phase of VTOL flight. Further, transfer function system ID is of utmost importance in control system design and plant modelling.
 
-In order to successfully model an aircraft's behavior using frequency domain methods, sufficent frequency content must be available in the aircraft's flight recordings. 
+In order to successfully model an aircraft's behavior using frequency domain methods, sufficent frequency content must be available in the aircraft's flight recordings. This is a limiting factor of this type of system ID, and special flight test maneuvers (like frequency sweeps and multisines) must be executed in order to get the necessary frequency content. If available flight data does not contain the necessary frequency content, frequency domain system ID is impossible, since without sufficient information on how an aircraft responds to inputs in the frequency domain, it is impossible to identify the system in the frequency domain!
 
-One disadvantage to this method is the requirement of good frequency content in the flight data recordings. Without information on how an aircraft responds in the frequency domain, it is impossible to identify the system!
+The general frequency domain system ID procedure for estimating transfer function is as follows. First, the time-domain flight data must be converted to the frequency domain using a discrete Fourier transform. Next, the transfer function numerator and denominator orders must be specified in order to build up a model with a set of parameters to match to the measured frequency responses. Once a model is set up, equation-error modelling can be used to estimate the value of each parameter within the transfer function. 
 
-Transfer function system ID is extremely useful in control system design and plant modelling.
+For example, if we have a numerator of order 3 and a denominator of order 4 (as is the case for the transfer function of angle of attack with respect to elevator input), like the one below: 
+![ade]({{site.baseurl}}/assets/img/ade.png)
+
+Then we must identify the value of 9 parameters: 4 for the numerator and 5 for the denominator.
+![ade]({{site.baseurl}}/assets/img/7params.png)
+
+Estimation of these parameter is generally completed using one of two methods in the frequency domain: equation-error modelling or output-error modelling (depending on how much measurement error exists in your data). I won't go into detail on how these methods work, but you can learn more about equation-error modelling by reading [this paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2006-6144), and about output-error modelling by reading [this MATLAB documentation.](https://www.mathworks.com/help/ident/ref/oe.html#:~:text=Output%2Derror%20(OE)%20models,as%20an%20additive%20output%20disturbance.)
+
+An example of transfer function estimation using equation-error modelling and the same data as in Figure 3 is shown below. 
+
+![ade]({{site.baseurl}}/assets/img/freqdom.png)
+*Figure 4: Frequency-Domain Modelling of a 3-2-1-1 Longitudinal Input Using the Equation-Error Technique*
+

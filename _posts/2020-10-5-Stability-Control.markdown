@@ -3,7 +3,7 @@ layout: post
 title: Flight Dynamics, Stability & Control
 date: 2020-10-05 07:30:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: Hinf.jpg # Add image post (optional)
+img: Hinf.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Control, System Dynamics, Mechatronics]
 ---
