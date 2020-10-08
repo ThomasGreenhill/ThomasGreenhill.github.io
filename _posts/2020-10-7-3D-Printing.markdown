@@ -7,4 +7,35 @@ img: 3D.jpg # Add image post (optional)
 fig-caption: Dining Room Table (Ash, Walnut & BloodWood) # Add figcaption (optional)
 tags: [Woodworking, Fine Woodworking, Cabinetry, Tables, Carpentry]
 ---
-_I thoroughly enjoy designing and 3D printing parts to solve problems._
+
+_I thoroughly enjoy designing and 3D printing parts to improve gliders and and to solve miscellaneous problems around my home. Most of the parts I've built were designed in SolidWorks and printed with my Creality Ender 3 3D printer at home._
+
+### Photo Gallery:
+<br />
+
+![Battery Exhaust Duct]({{site.baseurl}}/assets/img/exhaust-duct.jpg)
+*Battery Exhaust Duct*
+
+<br />
+
+![Flower Vase 1]({{site.baseurl}}/assets/img/flower-vase-1.jpg)
+*3D Printed Flower Vase*
+
+<br />
+
+<!-- ![Flower Vase 1]({{site.baseurl}}/assets/img/flower-vase-2.jpg)
+*3D Printed Flower Vase (2)* -->
+![NACA Duct For Battery Ventilation]({{site.baseurl}}/assets/img/NACA-Duct.jpg)
+*NACA Duct For Battery Ventilation*
+
+<br />
+
+![LS-10 ST Wing Wheel]({{site.baseurl}}/assets/img/LS-10-Wing-Wheel.jpg)
+*LS-10 ST Wing Wheel for Aero-Retrieves*
+
+
+<br />
+
+![ASW-22 Wing Wheel]({{site.baseurl}}/assets/img/ASW22.jpg)
+*ASW-22 Wing Wheel for Aero-Retrieves*
+
