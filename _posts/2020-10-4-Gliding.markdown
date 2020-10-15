@@ -11,7 +11,7 @@ _I learned to fly gliders at the age of 14 and have accumulated over 750 totally
 
 ### Awards:
 * 2020 -- 18th Place: [OLC Speed Champion](https://www.onlinecontest.org/olc-3.0/gliding/champion.html?st=olc-league&rt=olc&sp=2020&c=C0&sc=) (worldwide, all ages)
-* 2019 -- 1st Place: US Junior National Championship (pilots under 25years of age)
+* 2019 -- 1st Place: US Junior National Championship (pilots under 25 years of age)
 * 2019 -- 6th place: US Open Class National Championshp (all ages)
 * 2019 -- Recipient of the R. Mozier Award & Scholarship 
 * 2017 -- Pacific Soaring Council Sawyer Award
@@ -48,7 +48,7 @@ On July 12, 2020, I flew my first 1000km flight in the 18m LS-10 ST! I took off 
 
 ### Photo Gallery:
 
-![b]({{site.baseurl}}/assets/img/IMG_2108.jpg)
+![]({{site.baseurl}}/assets/img/IMG_2108.jpg)
 *Turning North Near Panguitch, UT During my 1000km Flight, Looking East on Bryce Canyon* <br />
 
 ![b]({{site.baseurl}}/assets/img/Tahoe.jpg)

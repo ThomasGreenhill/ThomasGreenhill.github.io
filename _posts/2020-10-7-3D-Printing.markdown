@@ -39,3 +39,8 @@ _I thoroughly enjoy designing and 3D printing parts to improve gliders and and t
 ![ASW-22 Wing Wheel]({{site.baseurl}}/assets/img/ASW22.jpg)
 *ASW-22 Wing Wheel for Aero-Retrieves*
 
+<br />
+
+![Pencil and Pen Holder]({{site.baseurl}}/assets/img/Pen-Holder.jpg)
+*Pencil and Pen Holder*
+
