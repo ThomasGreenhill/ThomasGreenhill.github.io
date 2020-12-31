@@ -930,7 +930,7 @@ table tfoot td {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 240px;
+  width: 360px;
   height: 100%;
   padding: 20px 10px;
   background-color: #ffffff;
@@ -1390,7 +1390,7 @@ a.newer-posts:hover {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1000px) {
   .sidebar {
     position: relative;
     display: -webkit-box;
@@ -1446,7 +1446,17 @@ a.newer-posts:hover {
         -ms-flex-align: stretch;
             align-items: stretch;
   }
-  .contact-title, .copyright {
+  .contact-title{
+  position: relative;
+  color: #333030;
+  font-weight: 400;
+  font-size: 12px;
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  text-align: center;
+  }
+
+  .copyright{
     display: none;
   }
 }
