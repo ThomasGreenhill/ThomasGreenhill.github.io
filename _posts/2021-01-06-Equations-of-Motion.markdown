@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Equations of Motion and State-Space Realizations for Aircraft and Rotorcraft
-date: 2021-01-06 07:30:20 +0800
+date: 2022-01-06 07:30:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: coordinates.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
